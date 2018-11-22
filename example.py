@@ -19,7 +19,7 @@ def get_word_lengths(s):
     the word lengths in string s.
     """
     # uncomment next line in step 9 Tima forgot this
-   return [len(word) for word in s.split()]
+    return [len(word) for word in s.split()]
     return None
 
 
